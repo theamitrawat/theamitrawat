@@ -3,8 +3,8 @@
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif" alt="coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theamitrawat&label=Profile%20views&color=0e75b6&style=flat" alt="theamitrawat" /> </p>
 <p align="left"> <a href="https://twitter.com/@theamitrawat16" target="blank"><img src="https://img.shields.io/twitter/follow/@theamitrawat16?logo=twitter&style=for-the-badge" alt="@theamitrawat16" /></a> </p>
-- 🌱 I’m currently learning **full stack web development**
-- 📫 How to reach me **📧theamitrwt@gmail.com and 📧rawatamit8684@gmail.com**
+- 🌱 I’m currently learning ~full stack web development~</br>
+- 📫 How to reach me ~📧theamitrwt@gmail.com and 📧rawatamit8684@gmail.com~
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@amit_rawat_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@amit_rawat_96" height="30" width="40" /></a>
